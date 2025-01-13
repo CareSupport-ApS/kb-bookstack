@@ -41,7 +41,7 @@ return [
 
     // Bookshelves
     'bookshelf_create'            => 'estante criada',
-    'bookshelf_create_notification'    => 'Prateleira criada com sucesso',
+    'bookshelf_create_notification'    => 'Estante criada com sucesso',
     'bookshelf_create_from_book'    => 'livro convertido em estante',
     'bookshelf_create_from_book_notification'    => 'Livro convertido com sucesso em uma estante',
     'bookshelf_update'                 => 'estante atualizada',
