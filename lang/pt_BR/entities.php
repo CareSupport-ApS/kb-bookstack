@@ -66,14 +66,14 @@ return [
 
     // Permissions and restrictions
     'permissions' => 'Permissões',
-    'permissions_desc' => 'Defina permissões aqui para substituir as permissões padrão fornecidas pelas funções do usuário.',
+    'permissions_desc' => 'Defina permissões aqui para substituir as permissões padrão fornecidas pelo perfil do usuário.',
     'permissions_book_cascade' => 'As permissões definidas nos livros serão automaticamente transmitidas aos capítulos e páginas secundários, a menos que eles tenham suas próprias permissões definidas.',
     'permissions_chapter_cascade' => 'As permissões definidas nos capítulos serão automaticamente transmitidas às páginas secundárias, a menos que elas tenham suas próprias permissões definidas.',
     'permissions_save' => 'Salvar permissões',
     'permissions_owner' => 'Dono',
     'permissions_role_everyone_else' => 'Todos os Outros',
-    'permissions_role_everyone_else_desc' => 'Defina permissões para todas as funções não substituídas especificamente.',
-    'permissions_role_override' => 'Substituir permissões para o papel',
+    'permissions_role_everyone_else_desc' => 'Defina permissões para todos os perfis não substituídas especificamente.',
+    'permissions_role_override' => 'Substituir permissões para o perfil',
     'permissions_inherit_defaults' => 'Herdar Padrões',
 
     // Search
