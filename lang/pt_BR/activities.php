@@ -109,9 +109,9 @@ return [
     'api_token_delete_notification' => 'Token de API excluído com sucesso',
 
     // Roles
-    'role_create' => 'função criada',
+    'role_create' => 'perfil criado',
     'role_create_notification' => 'Perfil criado com sucesso',
-    'role_update' => 'função atualizada',
+    'role_update' => 'perfil atualizado',
     'role_update_notification' => 'Perfil atualizado com sucesso',
     'role_delete' => 'Excluir papel',
     'role_delete_notification' => 'Perfil excluído com sucesso',
