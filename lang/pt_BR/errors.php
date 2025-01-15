@@ -82,7 +82,7 @@ return [
     'users_could_not_send_invite' => 'Não foi possível criar o usuário porque o endereço eletrônico de convite não foi enviado',
 
     // Roles
-    'role_cannot_be_edited' => 'Essa função não pode ser editada',
+    'role_cannot_be_edited' => 'Esse perfil não pode ser editado',
     'role_system_cannot_be_deleted' => 'Essa é uma função do sistema e não pode ser excluída',
     'role_registration_default_cannot_delete' => 'Essa função não poderá se excluída enquanto estiver registrada como função de registro padrão',
     'role_cannot_remove_only_admin' => 'Este usuário é o único vinculado ao cargo de administrador. Atribua o cargo de administrador a outro usuário antes de tentar removê-lo aqui.',
