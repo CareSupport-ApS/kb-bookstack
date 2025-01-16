@@ -45,7 +45,7 @@ return [
     'app_footer_links_add' => '添加页脚链接',
     'app_disable_comments' => '禁用评论',
     'app_disable_comments_toggle' => '禁用评论',
-    'app_disable_comments_desc' => '在站点的所有页面上禁用评论，现有评论也不会显示出来。',
+    'app_disable_comments_desc' => '在站点的所有页面上禁用评论， <br> 已有评论也不会显示出来。',
 
     // Color settings
     'color_scheme' => '应用程序配色方案',
@@ -162,7 +162,7 @@ return [
     'role_access_api' => '访问系统 API',
     'role_manage_settings' => '管理 App 设置',
     'role_export_content' => '导出内容',
-    'role_import_content' => 'Import content',
+    'role_import_content' => '导入内容',
     'role_editor_change' => '更改页面编辑器',
     'role_notifications' => '管理和接收通知',
     'role_asset' => '资源许可',
