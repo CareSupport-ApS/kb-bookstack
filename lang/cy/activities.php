@@ -85,12 +85,12 @@ return [
     'webhook_delete_notification' => 'Webhook wedi\'i dileu\'n llwyddiannus',
 
     // Imports
-    'import_create' => 'created import',
-    'import_create_notification' => 'Import successfully uploaded',
-    'import_run' => 'updated import',
-    'import_run_notification' => 'Content successfully imported',
-    'import_delete' => 'deleted import',
-    'import_delete_notification' => 'Import successfully deleted',
+    'import_create' => 'creodd fewnforyn',
+    'import_create_notification' => 'Mewnforyn wedi\'i lwytho i fyny\'n llwyddiannus',
+    'import_run' => 'diweddarodd fewnforyn',
+    'import_run_notification' => 'Cynnwys wedi\'i fewnforio\'n llwyddiannus',
+    'import_delete' => 'dileodd fewnforyn',
+    'import_delete_notification' => 'Mewnforyn wedi\'i ddileu\'n llwyddiannus',
 
     // Users
     'user_create' => 'creodd ddefnyddiwr',
