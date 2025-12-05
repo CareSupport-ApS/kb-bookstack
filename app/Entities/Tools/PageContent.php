@@ -336,7 +336,7 @@ class PageContent
                 return PageIncludeContent::fromHtmlAndTag('', $tag);
             }
 
-            $matchedPage = $queries->findVisibleById($tag->getPageId());
+            $matchedPage = $queries->findVisibleOverwriteById($tag->getPageId());
             $content = PageIncludeContent::fromHtmlAndTag($matchedPage->html ?? '', $tag);
 
             if (Theme::hasListeners(ThemeEvents::PAGE_INCLUDE_PARSE)) {
