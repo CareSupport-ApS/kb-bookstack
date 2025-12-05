@@ -28,6 +28,11 @@ class PageQueries implements ProvidesEntityQueries
         return $this->start()->scopes('visible')->find($id);
     }
 
+    public function findVisibleOverwriteById(int $id): ?Page
+    {
+        return $this->start()->find($id);
+    }
+
     public function findVisibleByIdOrFail(int $id): Page
     {
         $page = $this->findVisibleById($id);
